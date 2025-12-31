@@ -33,13 +33,7 @@ A brief description about me and my projects
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsarda11-create&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="abhinavsarda11-create's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=abhinavsarda11-create&theme=nightowl&hide_border=true&cache_seconds=86400" alt="abhinavsarda11-create's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsarda11-create&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhinav sarda's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsarda11-create&theme=nightowl&radius=10" alt="abhinavsarda11-create's Activity Graph" />
 </p>
@@ -67,5 +61,13 @@ A brief description about me and my projects
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
