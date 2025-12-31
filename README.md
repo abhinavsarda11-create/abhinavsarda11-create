@@ -1,4 +1,10 @@
-<img src="https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true" height="300px" width="5000px"></img>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=abhinavsarda11-create">
+    <img src="https://komarev.com/ghpvc/?username=abhinavsarda11-create&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinavsarda11-create's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
 # 👾 About ME
 
