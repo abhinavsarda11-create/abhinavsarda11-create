@@ -1,4 +1,3 @@
-![It's ME](https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true)
 <img src="https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true" height="500px" width="5000px"></img>
 
 # 👾 About ME
