@@ -12,7 +12,7 @@ A brief description about me and my projects
 - ⚡ Fun fact: I'm comming to teen
 
 # 🎖️Badges
-![](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+![](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) ![](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarda_abhi25)
