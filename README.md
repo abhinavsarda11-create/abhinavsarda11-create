@@ -1,4 +1,5 @@
-# [[It's ME]([https://raw.githubusercontent.com/abhinavsarda11-create/abhinavsarda11-create/refs/heads/main/Hey%20%2C%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif)](https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true)]
+[[It's ME](https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true)]
+
 
 # 👾 About ME
 
