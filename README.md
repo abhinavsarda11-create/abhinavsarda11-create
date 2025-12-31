@@ -1,4 +1,4 @@
-<img src="https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true" height="250px" width="5000px"></img>
+<img src="https://github.com/abhinavsarda11-create/abhinavsarda11-create/blob/main/Hey%20,%20I%E2%80%99m%20Abhinav%20Sarda%20.....%20(1).gif?raw=true" height="300px" width="5000px"></img>
 
 # 👾 About ME
 
@@ -12,7 +12,7 @@ A brief description about me and my projects
 - ⚡ Fun fact: I'm comming to teen
 
 # 🎖️Badges
-[[](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)]
+![](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarda_abhi25)
