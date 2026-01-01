@@ -5,10 +5,8 @@
 </a>
 </div>
 <hr>
-<div aling="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7F00FF&vCenter=true&width=435&lines=Web+developer....;AI%26ML+is+future+....;Life+is+too+short+%2C+so+always+have+fun." alt="Typing SVG" />
-  </a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Web+developer....;AI%26ML+is+future+....;Life+is+too+short+%2C+so+always+have+fun." alt="Typing SVG" /></a>
 </div>
 <hr>
 <p align="center">
