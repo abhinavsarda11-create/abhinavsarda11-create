@@ -1,3 +1,4 @@
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Abhinav+Sarda+" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=abhinavsarda11-create">
     <img src="https://komarev.com/ghpvc/?username=abhinavsarda11-create&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinavsarda11-create's profile views" />
