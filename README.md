@@ -1,7 +1,14 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave Animation">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hi%2C+I'm+Abhinav+Sarda...." alt="Typing SVG" />
 </a>
+</div>
+<hr>
+<div aling="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7F00FF&vCenter=true&width=435&lines=Web+developer....;AI%26ML+is+future+....;Life+is+too+short+%2C+so+always+have+fun." alt="Typing SVG" />
+  </a>
 </div>
 <hr>
 <p align="center">
