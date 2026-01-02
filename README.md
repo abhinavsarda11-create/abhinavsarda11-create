@@ -81,9 +81,10 @@ A brief description about me and my projects
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+<h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt=""></p>
+</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
