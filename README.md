@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=abhinavsarda11-create">
-    <img src="[https://komarev.com/ghpvc/?username=abhinavsarda11-create&label=Profile%20views&color=00FFFF&style=flat-square]" alt="abhinavsarda11-create's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=abhinavsarda11-create&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinavsarda11-create's profile views" />
   </a>
 </p>
 
